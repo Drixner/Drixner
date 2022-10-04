@@ -59,7 +59,6 @@ Hello, my name is Drixner and I am a Full Stack Software Developer student at [H
 ### Stats and Contributions:
 
 
-![Snake animation](https://github.com/drixner/drixner/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
 <img src="https://gpvc.arturio.dev/drixner"> 
