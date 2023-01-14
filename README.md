@@ -6,19 +6,19 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=drixner.drixner)
 
 ```python
-class RafnixG:
+class Drixner:
 
     def __init__(self):
         self.username = 'Drix'
         self.name = 'Drixner'
         self.web = 'https://.io'
-        self.twitter = '@drixnerct'
+        self.email = 'drixnerrafael1','@','gmail.com'
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript','Boostrap'],
             'backend': ['Python','NodeJS'],
             'database': ['MySQL'],
             'devops': ['Docker','Jenkins', 'GitHub Actions', 'AWS'],
-            'tools': ['GIT', 'GitHub', 'GitLab', Nvim, Bash,],
+            'tools': ['GIT', 'GitHub', 'GitLab', 'Nvim', 'Bash'],
             'misc': ['GNU/Linux']
         }
 
@@ -45,8 +45,8 @@ You can find me:
 ### Stats :
 <div align="center">
   <a href="https://github.com/drixner">
-    <img height="162em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Drixner&show_icons=true&theme=darcula" alt="drixner" />
-    <img height="162em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Drixner&layout=compact&langs_count=6&theme=darcula" alt="drixner" />
+    <img height="162em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Drixner&show_icons=true&theme=dark" alt="drixner" />
+    <img height="162em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Drixner&layout=compact&langs_count=6&theme=dark" alt="drixner" />
     <br/>
     <br/>
     <!--
