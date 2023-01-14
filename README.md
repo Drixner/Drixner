@@ -83,3 +83,5 @@ Statistics (themes: algolia, tokyonight, onedark, dracula, react), Snake animati
 --->
 
 ### Contributions in the last year:
+
+![snake gif](https://github.com/Drixner/Drixner/blob/output/github-contribution-grid-snake.gif)
