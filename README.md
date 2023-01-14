@@ -45,8 +45,8 @@ You can find me:
 ### Stats :
 <div align="center">
   <a href="https://github.com/drixner">
-    <img height="162em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Drixner&show_icons=true&theme=merko" alt="drixner" />
-    <img height="162em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Drixner&layout=compact&langs_count=6&theme=merko" alt="drixner" />
+    <img height="162em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Drixner&show_icons=true&theme=darcula" alt="drixner" />
+    <img height="162em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Drixner&layout=compact&langs_count=6&theme=darcula" alt="drixner" />
     <br/>
     <br/>
     <!--
