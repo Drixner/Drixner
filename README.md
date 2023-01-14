@@ -84,4 +84,4 @@ Statistics (themes: algolia, tokyonight, onedark, dracula, react), Snake animati
 
 ### Contributions in the last year:
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Drixner/Drixner/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/Drixner/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake animation](https://github.com/Drixner/Drixner/blob/output/github-contribution-grid-snake.svg
