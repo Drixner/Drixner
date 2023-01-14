@@ -42,6 +42,19 @@ You can find me:
 <!---------- Languages and tools section ---------->
 ### Languages and Tools:
 
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
+
+
 ### Stats :
 <div align="center">
   <a href="https://github.com/drixner">
@@ -57,30 +70,6 @@ You can find me:
 
 [![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Drixner&area_color=0e4429&theme=github-compact)](https://github.com/drixner)
 
-
-<!---------- Statistics (themes: algolia, tokyonight, onedark, dracula, react, great-gatsby), Snake animation and profile views count section ---------->
-
-<!---
-===============START HIDDEN SECTION====================
-Statistics (themes: algolia, tokyonight, onedark, dracula, react), Snake animation and profile views count section
-
-### Stats and Contributions:
-
-<details>
-  <summary>📊 <b>Click to show GitHub Stats <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Eyes.png" width="3.5%"> :</b></summary>
-  <br/>
-  <div align="center">
-  <a href="https://github.com/schambig">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=schambig&show_icons=true&theme=react&"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schambig&layout=compact&langs_count=6&theme=react"/>
-    <br/>
-    <br/>
-    <img src="https://activity-graph.herokuapp.com/graph?username=schambig&theme=react-dark&bg_color=20232a&hide_border=true" width="85%"/>
-  </a>
-  </div>
-</details>
-==================END HIDDEN SECTION====================
---->
 
 ### Contributions in the last year:
 
