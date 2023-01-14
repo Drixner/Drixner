@@ -3,7 +3,7 @@
 <!---------- Introduction ---------->
 ### Hi, I'm Drixner
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=drixner.drixner)
+
 
 ```python
 class Drixner:
@@ -87,3 +87,4 @@ Statistics (themes: algolia, tokyonight, onedark, dracula, react), Snake animati
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Drixner/Drixner/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Drixner/Drixner/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=drixner.drixner)
