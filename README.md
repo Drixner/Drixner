@@ -60,6 +60,7 @@ You can find me:
   <a href="https://github.com/drixner">
     <img height="162em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Drixner&show_icons=true&theme=dark" alt="drixner" />
     <img height="162em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Drixner&layout=compact&langs_count=6&theme=dark" alt="drixner" />
+      <a href="https://wakatime.com"><img src="https://wakatime.com/share/@CaptainCrunch/88abba16-2961-44e5-913c-102f5b94261c.png" /></a>
     <br/>
     <br/>
     <!--
