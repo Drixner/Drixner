@@ -15,11 +15,11 @@ class Drixner:
         self.email = 'drixnerrafael1','@','gmail.com'
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript','Boostrap'],
-            'backend': ['Python','NodeJS'],
+            'backend': ['Python','FastApi'],
             'database': ['MySQL'],
             'devops': ['Docker','Jenkins', 'GitHub Actions', 'AWS'],
-            'tools': ['GIT', 'GitHub', 'GitLab', 'Nvim', 'Bash'],
-            'misc': ['GNU/Linux']
+            'tools': ['GIT', 'GitHub', 'LunarVim', 'Nvim', 'Bash'],
+            'os': ['GNU/Linux'], ['Win']
         }
 
     def __str__(self):
