@@ -60,12 +60,8 @@ You can find me:
   <a href="https://github.com/drixner">
     <img height="162em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Drixner&show_icons=true&theme=dark" alt="drixner" />
     <img height="162em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Drixner&layout=compact&langs_count=6&theme=dark" alt="drixner" />
-      <a href="https://wakatime.com"><img src="https://wakatime.com/share/@CaptainCrunch/88abba16-2961-44e5-913c-102f5b94261c.png" width="70%" /></a>
+     <img src="https://wakatime.com/share/@CaptainCrunch/88abba16-2961-44e5-913c-102f5b94261c.png" width="70%" />
     <br/>
-    <br/>
-    <!--
-    <img src="https://activity-graph.herokuapp.com/graph?username=drixner&theme=react-dark&bg_color=20232a&hide_border=true" width="90%"/>
-    -->
   </a>
 </div>
 
