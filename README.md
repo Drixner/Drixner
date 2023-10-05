@@ -20,6 +20,7 @@ class Drixner:
             'devops': ['Docker','Jenkins', 'GitHub Actions', 'AWS'],
             'tools': ['GIT', 'GitHub', 'LunarVim', 'Nvim', 'Bash'],
             'os': ['GNU/Linux'], ['Win']
+            'web_scraping': ['Scrapy', 'BeautifulSoup', 'Requests', 'Selenium', 'Puppeteer']
         }
 
     def __str__(self):
