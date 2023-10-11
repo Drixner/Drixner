@@ -66,9 +66,6 @@ You can find me:
   </a>
 </div>
 
-[![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Drixner&area_color=0e4429&theme=github-compact)](https://github.com/drixner)
-
-
 ### Contributions in the last year:
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Drixner/Drixner/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
