@@ -11,7 +11,7 @@ class Drixner:
     def __init__(self):
         self.username = 'Drix'
         self.name = 'Drixner'
-        self.web = '[drixner.com](https://drixner.com/)'
+        self.web = 'drixner.com'
         self.email = 'drixnerrafael1','@','gmail.com'
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript','Boostrap'],
