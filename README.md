@@ -35,6 +35,7 @@ if __name__ == '__main__':
 You can find me:
 - [Twitter](https://twitter.com/DrixnerRafael)
 - [linkedin](https://www.linkedin.com/in/drixner/)
+- [Web](https://www.drixner.com)
 
 <!---------- Social icons section ---------->
 
