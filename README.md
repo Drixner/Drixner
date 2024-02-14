@@ -14,9 +14,9 @@ class Drixner:
         self.web = 'drixner.com'
         self.email = 'drixnerrafael1','@','gmail.com'
         self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript','Boostrap'],
+            'frontend': ['HTML', 'CSS', 'JavaScript','Boostrap', Vue, tailwindCSS],
             'backend': ['Python','FastApi'],
-            'database': ['MySQL'],
+            'database': ['MySQL', SQLserve, MongoDB],
             'devops': ['Docker','Jenkins', 'GitHub Actions', 'AWS'],
             'tools': ['GIT', 'GitHub', 'LunarVim', 'Nvim', 'Bash'],
             'os': ['GNU/Linux'], ['Win']
