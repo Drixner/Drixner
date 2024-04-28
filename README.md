@@ -15,7 +15,7 @@ class Drixner:
             'frontend': ['HTML', 'CSS', 'JavaScript','Boostrap', 'Vue', 'tailwindCSS'],
             'backend': ['Python','FastApi'],
             'database': ['MySQL', 'SQLserve', 'MongoDB'],
-            'devops': ['Docker','Jenkins', 'GitHub Actions', 'AWS', GoogleCloud, Azure],
+            'devops': ['Docker','Jenkins', 'GitHub Actions', 'AWS', 'GoogleCloud', 'Azure'],
             'tools': ['GIT', 'GitHub', 'AstroNvim', 'NeoVim', 'Bash'],
             'os': ['GNU/Linux'], ['Win']
             'web_scraping': ['Scrapy', 'BeautifulSoup', 'Requests', 'Selenium', 'Puppeteer']
