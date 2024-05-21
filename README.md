@@ -10,7 +10,7 @@ class Drixner:
         self.username = 'Drix'
         self.name = 'Drixner'
         self.web = 'drixner.com'
-        self.email = 'contacto@drixner.com'
+        self.email = 'hola@drixner.com'
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript','Boostrap', 'VueJs', 'tailwindCSS', 'Vite','Bootstrap'],
             'backend': ['Python','FastApi'],
