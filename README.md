@@ -13,8 +13,8 @@ class Drixner:
         self.email = 'hola@drixner.com'
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript','Boostrap', 'VueJs', 'tailwindCSS', 'Vite','Bootstrap'],
-            'backend': ['Python','FastApi', 'NodeJS'],
-            'database': ['MySQL', 'SQLserve', 'MongoDB'],
+            'backend': ['Python','FastApi', 'NodeJS', 'NodeJS'],
+            'database': ['MySQL', 'SQLserver', 'MongoDB'],
             'devops': ['Docker','Jenkins', 'GitHub Actions', 'AWS', 'GoogleCloud', 'Azure'],
             'tools': ['GIT', 'GitHub', 'AstroNvim', 'NeoVim', 'Bash'],
             'os': ['GNU/Linux'], ['Win']
