@@ -12,7 +12,7 @@ class Drixner:
         self.web = 'drixner.com'
         self.email = 'hola@drixner.com'
         self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript','Boostrap', 'VueJs', 'tailwindCSS', 'Vite','Bootstrap'],
+            'frontend': ['HTML', 'CSS', 'JavaScript','Boostrap', 'VueJs', 'tailwindCSS', 'Vite','Bootstrap', 'React'],
             'backend': ['Python','FastApi', 'NodeJS', 'NodeJS'],
             'database': ['MySQL', 'SQLserver', 'MongoDB'],
             'devops': ['Docker','Jenkins', 'GitHub Actions', 'AWS', 'GoogleCloud', 'Azure'],
