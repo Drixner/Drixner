@@ -14,7 +14,7 @@ class Drixner:
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript','Boostrap', 'VueJs', 'tailwindCSS', 'Vite','Bootstrap', 'React'],
             'backend': ['Python','FastApi', 'NodeJS', 'NodeJS'],
-            'database': ['MySQL', 'SQLserver', 'MongoDB'],
+            'database': ['MySQL', 'SQLserver'],
             'devops': ['Docker','Jenkins', 'GitHub Actions', 'AWS', 'GoogleCloud', 'Azure'],
             'tools': ['GIT', 'GitHub', 'AstroNvim', 'NeoVim', 'Bash'],
             'os': ['GNU/Linux'], ['Win']
