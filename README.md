@@ -8,7 +8,7 @@ class Drixner:
 
     def __init__(self):
         self.username = 'Drix'
-        self.name = 'Rafael'
+        self.name = 'Drixner'
         self.web = 'drixner.com'
         self.email = 'hola@drixner.com'
         self.code = {
