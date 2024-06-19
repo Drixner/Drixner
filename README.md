@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 class Drixner:
 
     def __init__(self):
-        self.username = 'Drx'
+        self.username = 'Drix'
         self.name = 'Drixner'
         self.web = 'drixner.com'
         self.email = 'hola@drixner.com'
