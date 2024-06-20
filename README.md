@@ -16,7 +16,7 @@ class Drixner:
             'backend': ['Python','FastApi', 'NodeJS'],
             'database': ['MySQL', 'SQLserver'],
             'devops': ['Docker','Jenkins', 'GitHub Actions', 'AWS', 'GoogleCloud', 'Azure'],
-            'tools': ['GIT', 'GitHub', 'AstroNvim', 'NeoVim', 'Bash'],
+            'tools': ['GitHub', 'AstroNvim', 'NeoVim', 'Bash'],
             'os': ['GNU/Linux'], ['Win']
             'web_scraping': ['Scrapy', 'BeautifulSoup', 'Requests', 'Selenium', 'Puppeteer']
         }
